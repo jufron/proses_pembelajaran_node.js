@@ -1,0 +1,12 @@
+{
+  "name": "readline_node_js",
+  "version": "1.0.0",
+  "description": "belaja menggunakan readline di node js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "j",
+  "license": "ISC"
+}
