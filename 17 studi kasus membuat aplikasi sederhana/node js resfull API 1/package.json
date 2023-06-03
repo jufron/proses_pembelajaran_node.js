@@ -1,0 +1,13 @@
+{
+  "name": "node_js_restfull_api",
+  "version": "1.0.0",
+  "description": "belajar membangun aplikasi restfull API sedrhana dengan menggunakan pure node js tanpa framework atau library",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jufron",
+  "license": "ISC"
+}
